@@ -1,0 +1,14 @@
+.label-wrapper {
+    margin-left: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.label-wrapper .react-toggle {
+    padding-right: 1em;
+}
+
+.label-wrapper span {
+    padding-left: 1em;
+}
